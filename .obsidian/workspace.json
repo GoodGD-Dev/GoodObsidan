@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "42d5ea07b1b217ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "211248445d1c5b73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b01dd3d6460556b6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "FULLSTACK.canvas",
+                "viewState": {
+                  "x": -63.5,
+                  "y": -114,
+                  "zoom": -1.1904524036988942
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ff30a83ed31dc18",
+    "type": "split",
+    "children": [
+      {
+        "id": "843610ba4704abc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ab02a9cf7322224",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6eec9909e2dbb065",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aea40885f08c2930",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1284409270f394b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a18aa0ebe365d531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13289228a790b7e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FULLSTACK.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ca428f1d60dea8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FULLSTACK.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cba182840e9d39bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e07561f828412a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FULLSTACK.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b01dd3d6460556b6",
+  "lastOpenFiles": [
+    "Front-End/Sem título.canvas",
+    "FULLSTACK.canvas",
+    "Front-End/Css/Bootstrap.canvas",
+    "Cybernetrs/SUPORTE NIVEL 2.canvas",
+    "Front-End/Style/Sem título.canvas",
+    "Front-End/Css",
+    "Front-End",
+    "Cybernetrs",
+    "useEffect.md",
+    "Front-End/Css/Bootstrap",
+    "Sem título.md",
+    "Welcome.md"
+  ]
+}
