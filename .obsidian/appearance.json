@@ -3,6 +3,8 @@
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSize": 12,
-  "baseFontSizeAction": true
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "showViewHeader": false,
+  "nativeMenus": false
 }

@@ -4,20 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "211248445d1c5b73",
+        "id": "e0f0b827b61c7190",
         "type": "tabs",
         "children": [
           {
-            "id": "b01dd3d6460556b6",
+            "id": "65ba8f686b759a96",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1fa6a0ff31da92ce",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "FULLSTACK.canvas",
                 "viewState": {
-                  "x": -397.0403293063743,
-                  "y": 64.16452723249091,
-                  "zoom": -0.8571190703655609
+                  "x": 305.0045433470878,
+                  "y": 1368.894730749833,
+                  "zoom": -1.8666107651925088
                 }
               }
             }
@@ -52,7 +60,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -72,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1284409270f394b5",
@@ -89,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FULLSTACK.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FULLSTACK.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,8 +133,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "13326ddbc9d28b10",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "FULLSTACK.canvas"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -147,22 +162,57 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "random-note:Abrir nota aleatória": false,
+      "publish:Publicar mudanças": false
     }
   },
-  "active": "b01dd3d6460556b6",
+  "active": "65ba8f686b759a96",
   "lastOpenFiles": [
-    "Front-End/Sem título.canvas",
+    "FRONT-END/JAVASCRIPT/AXIOS.md",
     "FULLSTACK.canvas",
+    "FRONT-END/JAVASCRIPT/TYPESCRIPT.md",
+    "FRONT-END/JAVASCRIPT/JSX.md",
+    "FRONT-END/JAVASCRIPT/JQUERY.md",
+    "FRONT-END/CSS.md",
+    "FRONT-END/JAVASCRIPT.md",
+    "FRONT-END/CSS/PROCESSORS/LESS.md",
+    "FRONT-END/BUILDS & AUTOMOÇÃO/GULP.md",
+    "FRONT-END/BUILDS & AUTOMOÇÃO/PARCEL.md",
+    "FRONT-END/BUILDS & AUTOMOÇÃO/VITE.md",
+    "FRONT-END/BUILDS & AUTOMOÇÃO/WEBPACK.md",
+    "FRONT-END/FRAMEWORKS & LIBRARYS/VUE.md",
+    "FRONT-END/FRAMEWORKS & LIBRARYS/ANGULAR.md",
+    "FRONT-END/FRAMEWORKS & LIBRARYS/REACT.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "FRONT-END/HTML.md",
+    "GIT.md",
+    "202409241445.md",
+    "FRONT-END/BUILDS & AUTOMOÇÃO",
+    "FRONT-END/FRAMEWORKS & LIBRARYS",
+    "FRONT-END/CSS/LIBRARYS/NORMALIZE.CSS.md",
+    "FRONT-END/CSS/PROCESSORS",
+    "FRONT-END/CSS/PROCESSORS/SASS.md",
+    "FRONT-END/CSS/LIBRARYS",
+    "Front-End/Css/B.md",
+    "FRONT-END/CSS/FRAMEWORKS",
+    "FRONT-END/CSS/FRAMEWORKS/TAILWIND CSS.md",
+    "FRONT-END/CSS/PROCESSORS/POSTCSS.md",
+    "FRONT-END/CSS/LIBRARYS/HOVER.CSS.md",
+    "FRONT-END/CSS/LIBRARYS/ANIMATE.CSS.md",
+    "FRONT-END/CSS/LIBRARYS/GREENSOCK.md",
+    "FRONT-END/JAVASCRIPT",
+    "Front-End/Sem título.canvas",
     "Front-End/Css/Bootstrap.canvas",
     "Cybernetrs/SUPORTE NIVEL 2.canvas",
     "Front-End/Style/Sem título.canvas",
-    "Front-End/Css",
-    "Front-End",
+    "FRONT-END/CSS",
+    "FRONT-END",
     "Cybernetrs",
-    "useEffect.md",
-    "Front-End/Css/Bootstrap",
-    "Sem título.md",
-    "Welcome.md"
+    "Front-End/Css/Bootstrap"
   ]
 }
