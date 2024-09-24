@@ -1,72 +1,100 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#css",
-      "color": {
-        "a": 1,
-        "rgb": 2713073
-      }
-    },
-    {
-      "query": "tag:#CSSLIBRARYS  ",
-      "color": {
-        "a": 1,
-        "rgb": 8035824
-      }
-    },
-    {
-      "query": "tag:#PROCESSORS  ",
-      "color": {
-        "a": 1,
-        "rgb": 2097114
-      }
-    },
-    {
-      "query": "tag:#FRAMEWORKS tag:#LIBRARYS  ",
+      "query": "#PROCESSORS  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#BUILDS tag:#AUTOMOÇÃO  ",
-      "color": {
-        "a": 1,
-        "rgb": 16715731
-      }
-    },
-    {
-      "query": "tag:#CSSFRAMEWORKS  ",
-      "color": {
-        "a": 1,
-        "rgb": 262394
-      }
-    },
-    {
-      "query": "tag:#javascript  ",
+      "query": "#javascript  ",
       "color": {
         "a": 1,
         "rgb": 16514816
       }
+    },
+    {
+      "query": "#BUILDS",
+      "color": {
+        "a": 1,
+        "rgb": 7995637
+      }
+    },
+    {
+      "query": "#CSSFRAMEWORKS  ",
+      "color": {
+        "a": 1,
+        "rgb": 2303
+      }
+    },
+    {
+      "query": "#CSSLIBRARYS  ",
+      "color": {
+        "a": 1,
+        "rgb": 718297
+      }
+    },
+    {
+      "query": "#FRAMEWORKS",
+      "color": {
+        "a": 1,
+        "rgb": 16713182
+      }
+    },
+    {
+      "query": "#css  ",
+      "color": {
+        "a": 1,
+        "rgb": 423648
+      }
+    },
+    {
+      "query": "#AUTOMOÇÃO  ",
+      "color": {
+        "a": 1,
+        "rgb": 3014748
+      }
+    },
+    {
+      "query": "#BUILDS  ",
+      "color": {
+        "a": 1,
+        "rgb": 10451701
+      }
+    },
+    {
+      "query": "file:GIT",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "file:HTML",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 2.0140625,
-  "lineSizeMultiplier": 0.814583333333333,
+  "showArrow": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 2.1671875,
+  "lineSizeMultiplier": 3.57083333333333,
   "collapse-forces": false,
-  "centerStrength": 0.760416666666667,
-  "repelStrength": 14.7916666666667,
+  "centerStrength": 0.828125,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.36288736930121296,
+  "scale": 0.362887369301215,
   "close": true
 }

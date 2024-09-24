@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0f0b827b61c7190",
+        "id": "da83b32d66c4619f",
         "type": "tabs",
         "children": [
           {
-            "id": "65ba8f686b759a96",
+            "id": "827ae88879f13c32",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "1fa6a0ff31da92ce",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "FULLSTACK.canvas",
-                "viewState": {
-                  "x": 305.0045433470878,
-                  "y": 1368.894730749833,
-                  "zoom": -1.8666107651925088
-                }
-              }
             }
           }
         ]
@@ -59,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SS",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +133,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,45 +156,45 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "65ba8f686b759a96",
+  "active": "827ae88879f13c32",
   "lastOpenFiles": [
-    "FRONT-END/JAVASCRIPT/AXIOS.md",
     "FULLSTACK.canvas",
+    "Cybernetrs/SUPORTE NIVEL 2.canvas",
+    "GIT.md",
     "FRONT-END/JAVASCRIPT/TYPESCRIPT.md",
-    "FRONT-END/JAVASCRIPT/JSX.md",
     "FRONT-END/JAVASCRIPT/JQUERY.md",
-    "FRONT-END/CSS.md",
-    "FRONT-END/JAVASCRIPT.md",
-    "FRONT-END/CSS/PROCESSORS/LESS.md",
-    "FRONT-END/BUILDS & AUTOMOÇÃO/GULP.md",
-    "FRONT-END/BUILDS & AUTOMOÇÃO/PARCEL.md",
+    "FRONT-END/JAVASCRIPT/AXIOS.md",
+    "FRONT-END/JAVASCRIPT/JSX.md",
     "FRONT-END/BUILDS & AUTOMOÇÃO/VITE.md",
+    "FRONT-END/BUILDS & AUTOMOÇÃO/PARCEL.md",
     "FRONT-END/BUILDS & AUTOMOÇÃO/WEBPACK.md",
+    "FRONT-END/BUILDS & AUTOMOÇÃO/GULP.md",
+    "FRONT-END/CSS/LIBRARYS/GREENSOCK.md",
+    "FRONT-END/CSS/LIBRARYS/NORMALIZE.CSS.md",
+    "FRONT-END/CSS/LIBRARYS/ANIMATE.CSS.md",
+    "FRONT-END/CSS/LIBRARYS/AOS.md",
+    "FRONT-END/CSS/LIBRARYS/HOVER.CSS.md",
+    "FRONT-END/JAVASCRIPT.md",
+    "FRONT-END/CSS/FRAMEWORKS/TAILWIND CSS.md",
+    "FRONT-END/CSS/FRAMEWORKS/BOOTSTRAP.md",
+    "FRONT-END/HTML.md",
+    "FRONT-END/CSS.md",
+    "FRONT-END/FRAMEWORKS & LIBRARYS/REACT.md",
     "FRONT-END/FRAMEWORKS & LIBRARYS/VUE.md",
     "FRONT-END/FRAMEWORKS & LIBRARYS/ANGULAR.md",
-    "FRONT-END/FRAMEWORKS & LIBRARYS/REACT.md",
+    "FRONT-END/CSS/PROCESSORS/SASS.md",
+    "FRONT-END/CSS/PROCESSORS/LESS.md",
+    "FRONT-END/CSS/PROCESSORS/POSTCSS.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "FRONT-END/HTML.md",
-    "GIT.md",
-    "202409241445.md",
     "FRONT-END/BUILDS & AUTOMOÇÃO",
     "FRONT-END/FRAMEWORKS & LIBRARYS",
-    "FRONT-END/CSS/LIBRARYS/NORMALIZE.CSS.md",
     "FRONT-END/CSS/PROCESSORS",
-    "FRONT-END/CSS/PROCESSORS/SASS.md",
     "FRONT-END/CSS/LIBRARYS",
-    "Front-End/Css/B.md",
     "FRONT-END/CSS/FRAMEWORKS",
-    "FRONT-END/CSS/FRAMEWORKS/TAILWIND CSS.md",
-    "FRONT-END/CSS/PROCESSORS/POSTCSS.md",
-    "FRONT-END/CSS/LIBRARYS/HOVER.CSS.md",
-    "FRONT-END/CSS/LIBRARYS/ANIMATE.CSS.md",
-    "FRONT-END/CSS/LIBRARYS/GREENSOCK.md",
     "FRONT-END/JAVASCRIPT",
     "Front-End/Sem título.canvas",
     "Front-End/Css/Bootstrap.canvas",
-    "Cybernetrs/SUPORTE NIVEL 2.canvas",
     "Front-End/Style/Sem título.canvas",
     "FRONT-END/CSS",
     "FRONT-END",
