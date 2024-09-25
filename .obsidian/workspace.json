@@ -4,32 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "da83b32d66c4619f",
+        "id": "58551a54831b27cd",
         "type": "tabs",
         "children": [
           {
-            "id": "827ae88879f13c32",
+            "id": "a7a39d1beae45868",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "7a0dcaee5e49c8ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FRONT-END/CSS/FRAMEWORKS/BOOTSTRAP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FRONT-END/CSS/FRAMEWORKS/BOOTSTRAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FRONT-END/CSS/FRAMEWORKS/BOOTSTRAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FRONT-END/CSS/FRAMEWORKS/BOOTSTRAP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +156,9 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "7a0dcaee5e49c8ed",
+  "active": "a7a39d1beae45868",
   "lastOpenFiles": [
+    "FRONT-END/CSS/FRAMEWORKS/BOOTSTRAP.md",
     "FULLSTACK.canvas",
     "Cybernetrs/SUPORTE NIVEL 2.canvas",
     "GIT.md",
@@ -194,7 +177,6 @@
     "FRONT-END/CSS/LIBRARYS/HOVER.CSS.md",
     "FRONT-END/JAVASCRIPT.md",
     "FRONT-END/CSS/FRAMEWORKS/TAILWIND CSS.md",
-    "FRONT-END/CSS/FRAMEWORKS/BOOTSTRAP.md",
     "FRONT-END/HTML.md",
     "FRONT-END/CSS.md",
     "FRONT-END/FRAMEWORKS & LIBRARYS/REACT.md",
